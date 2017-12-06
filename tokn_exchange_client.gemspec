@@ -7,4 +7,5 @@ Gem::Specification.new do |s|
   s.authors     = ["Eric Campbell"]
   s.email       = 'eric@tokn.io'
   s.files       = ["lib/tokn_exchange_client.rb", "lib/tokn_exchange_client/gdax_client.rb"]
+  s.dependencies = ["http"]
 end

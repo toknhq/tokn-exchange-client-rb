@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'tokn_exchange_client'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2017-12-06'
   s.summary     = "Tokn Crypto Exchanges Client"
   s.description = "Tokn Crypto Exchanges Client"

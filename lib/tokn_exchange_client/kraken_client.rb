@@ -3,7 +3,7 @@ class ToknExchangeClient::KrakenClient
     @api_key = api_key
   end
 
-  def hi
-    puts(@api_key)
+  def api_key
+    @api_key
   end
 end
